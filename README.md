@@ -4,14 +4,14 @@ This Repository serves as a quick reference for finding out where important exam
 
 ******************************************
 
-1) Gym Application
+1) Gym Application <br/>
    -) This project was created in Java and used
       * Microsoft SQL server
       * JSON
       * JavaFX
       * Adobe XD
    
-2) CPG Power Client Application
+2) CPG Power Client Application <br/>
    -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
       * Android Studio
       * Google Firestore
