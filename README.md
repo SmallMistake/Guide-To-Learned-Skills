@@ -34,7 +34,8 @@ This Repository serves as a quick reference for finding out where important exam
    * Python
    * Tensorflow
    * Neural Networks
-   * Reinforcement Learning
+   * Reinforcement Learning <br/>
+   Full Project: https://github.com/SmallMistake/MineRL <br/>
 
 5) Python Exercises <br/>
 
