@@ -10,6 +10,8 @@ This Repository serves as a quick reference for finding out where important exam
       * JSON
       * JavaFX
       * Adobe XD
+      https://github.com/SmallMistake/GymApplication
+   <br/>
    
 2) CPG Power Client Application <br/>
    -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
