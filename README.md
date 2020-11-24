@@ -13,18 +13,20 @@ This Repository serves as a quick reference for finding out where important exam
       Full Project: https://github.com/SmallMistake/GymApplication
    <br/>
    
-2) CPG Power Client Application <br/>
-   -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
-      * Android Studio
-      * Google Firestore
-      * Google Maps SDK for Android
-
-3) Python Intro to Machine Learning <br/>
+2) Python Intro to Machine Learning <br/>
    -) This is a collection of projects I created while following along with the textbook "Hands-On Machine Learning with Scikit-Learn & Tensor Flow
       * Python
       * Tensorflow
       * Neural Networks
       * Reinforcement Learning
+   
+3) CPG Power Client Application <br/>
+   -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
+      * Android Studio
+      * Google Firestore
+      * Google Maps SDK for Android
+
+
 
 4) MineRL <br/>
    -) This repository contains the code used in an Artificial Intelegence building contest I competed in. The goal was to build an AI that could beat Minecraft with no outside assistance. I used this opportunity to apply what I had learned, and I created an AI that could navigate and mine for wood using a reinforcment learning alogrithm. 
