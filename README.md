@@ -18,7 +18,8 @@ This Repository serves as a quick reference for finding out where important exam
       * Python
       * Tensorflow
       * Neural Networks
-      * Reinforcement Learning
+      * Reinforcement Learning <br/>
+      Full Project: https://github.com/SmallMistake/PythonIntroMachineLearning <br/>
    
 3) CPG Power Client Application <br/>
    -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
@@ -39,4 +40,6 @@ This Repository serves as a quick reference for finding out where important exam
 
 6) Blender Sketch A Day <br/>
     -) A collection of seven 3d models I created over the course of a week. By doing this, I acquired a vary basic ability to use 3d modeling software.
+    * Blender <br/>
+    Full Project: https://github.com/SmallMistake/BlenderSketchADay <br/>
     
