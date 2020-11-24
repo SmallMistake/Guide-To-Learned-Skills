@@ -10,7 +10,7 @@ This Repository serves as a quick reference for finding out where important exam
       * JSON
       * JavaFX
       * Adobe XD <br/>
-      https://github.com/SmallMistake/GymApplication
+      Full Project: https://github.com/SmallMistake/GymApplication
    <br/>
    
 2) CPG Power Client Application <br/>
