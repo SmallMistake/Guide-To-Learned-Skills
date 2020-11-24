@@ -5,11 +5,11 @@ This Repository serves as a quick reference for finding out where important exam
 ******************************************
 
 1) Gym Application <br/>
-   -) This project was created in Java and used
+   -) This project was created in Java and used:
       * Microsoft SQL server
       * JSON
       * JavaFX
-      * Adobe XD
+      * Adobe XD <br/>
       https://github.com/SmallMistake/GymApplication
    <br/>
    
