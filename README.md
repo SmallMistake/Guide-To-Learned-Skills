@@ -22,7 +22,13 @@ This Repository serves as a quick reference for finding out where important exam
       Full Project: https://github.com/SmallMistake/PythonIntroMachineLearning 
    <br/>
    
-3) CPG Power Client Application <br/>
+3) Modding NiD
+   -) This project had me going through hexadecimal files to reverse engineer different parts of the program. I then used what I learned to inject new code into the program to get wanted results.
+      * Reverse Engineering
+      * Extracting data from Binary files
+      * Editing Audio Files
+   
+4) CPG Power Client Application <br/>
    -) This app was requested to help fix a problem with data entry and retrieval at remote jobsites
       * Android Studio
       * Google Firestore
@@ -31,7 +37,7 @@ This Repository serves as a quick reference for finding out where important exam
  // TODO Being worked on right now
 
 
-4) MineRL <br/>
+5) MineRL <br/>
    -) This repository contains the code used in an Artificial Intelegence building contest I competed in. The goal was to build an AI that could beat Minecraft with no outside assistance. I used this opportunity to apply what I had learned, and I created an AI that could navigate and mine for wood using a reinforcment learning alogrithm. 
       * Python
       * Tensorflow
@@ -39,8 +45,6 @@ This Repository serves as a quick reference for finding out where important exam
       * Reinforcement Learning <br/>
       Full Project: https://github.com/SmallMistake/MineRL 
    <br/>
-
-5) Python Exercises <br/>
 
 6) Blender Sketch A Day <br/>
     -) A collection of seven 3d models I created over the course of a week. By doing this, I acquired a vary basic ability to use 3d modeling software.
