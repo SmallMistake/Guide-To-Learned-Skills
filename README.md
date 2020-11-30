@@ -22,7 +22,7 @@ This Repository serves as a quick reference for finding out where important exam
       Full Project: https://github.com/SmallMistake/PythonIntroMachineLearning 
    <br/>
    
-3) Modding NiD
+3) Modding NiD </br>
    -) This project had me going through hexadecimal files to reverse engineer different parts of the program. I then used what I learned to inject new code into the program to get wanted results.
       * Reverse Engineering
       * Extracting data from Binary files
