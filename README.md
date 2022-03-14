@@ -3,6 +3,12 @@ This Repository serves as a quick reference for finding out where important exam
 
 
 ******************************************
+Contributions:
+DotNetNuke,
+Visual Studio Code,
+.Net Docs
+
+******************************************
 
 1) Gym Application <br/>
    -) This project was created in Java and used:
